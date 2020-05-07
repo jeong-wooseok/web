@@ -3,17 +3,18 @@
     grid-template-columns: 150px 1fr;
   }
   #article{
-    padding-left: 25px;
+    padding-left: 20px;
   }
     body{margin:0}
+   
     a{
-      color:rgb(71, 65, 65);
+      color:rgb(143, 135, 135);
       text-decoration:none;
     }
     span{
       text-align: center;
       font-style: oblique;
-      border-bottom: gray;
+      border-bottom:gray;
     }
     h1{
       font-size: 45px;
